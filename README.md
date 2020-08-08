@@ -10,6 +10,7 @@
 - 💬 Ask me about **React, Node, GraphQL, React Native, Serverless**
 - ⚡ Fun fact: **I love Anime**
 
+<br />
 
 ### Connect with me:
 
@@ -18,8 +19,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackoverflow]
 
-
-
+<br />
 <br />
 
 ### Languages and Tools:
@@ -42,9 +42,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />
+
+<img align="left" alt="HTML5" width="26px" style="margin-top: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" style="margin-top: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" />
+<img align="left" alt="HTML5" width="26px" style="margin-top: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />
 
 <br />
 <br />
