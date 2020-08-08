@@ -1,30 +1,77 @@
-<h1 align="center">Hi 👋, I'm Dhruv Kumar Jha</h1>
-<h3 align="center">A full stack developer working with React, Node, GraphQL, Javascript, React Native and Serverless Technologies.</h3>
+# Hi 👋, I'm Dhruv Kumar Jha
+#### A full stack developer working with React, Node, GraphQL, Javascript, React Native and Serverless Technologies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-kumar-jha" alt="dhruv-kumar-jha" /> </p>
 
 - 🔭 I’m currently working on **Brand/Wars Mobile Application**
-
 - 🌱 I’m currently learning **Machine Learning**
-
 - 👯 I’m looking to collaborate on **React JS Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/dhruv-kumar-jha](https://github.com/dhruv-kumar-jha)
-
 - 📝 I regulary write articles on [https://dhruvkumarjha.com/](https://dhruvkumarjha.com/)
-
 - 💬 Ask me about **React, Node, GraphQL, React Native, Serverless**
+- ⚡ Fun fact: **I love Anime**
 
-- 📫 How to reach me **dhruv@dhruvkumarjha.com**
 
-- ⚡ Fun fact **Anime over Movies**
+### Connect with me:
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-kumar-jha&layout=compact&hide=html" alt="dhruv-kumar-jha" />
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackoverflow]
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-kumar-jha&show_icons=true" alt="dhruv-kumar-jha" />
 
-<p align="center">
-<a href="https://twitter.com/dhruv_kumar_jha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dhruv_kumar_jha" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/dhruvkumarjha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dhruvkumarjha" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/414002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="414002" height="30" width="30" /></a>
-</p>
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+- [Building a Todo Application using GraphQL and AWS AppSync](https://dhruvkumarjha.com/building-a-todo-application-using-graphql-and-aws-appsync)
+- [Progressive Web Application Using React](https://v1.dhruvkumarjha.com/articles/progressive-web-application-using-react-part-one)
+- [Building a Static Website Using React JS](https://v1.dhruvkumarjha.com/articles/building-a-static-website-using-react-js-part-1-project-setup-and-website-ui)
+- [Introduction To Creating React Components And Publishing Them To NPM
+](https://v1.dhruvkumarjha.com/articles/introduction-to-creating-react-components-and-publishing-them-to-npm)
+- [Build a Notification Service Using AWS CodeStar, Node and Lambda
+](https://v1.dhruvkumarjha.com/articles/build-a-notification-service-using-aws-codestar-node-and-lambda)
+- [How to write GraphQL Apps using AWS Lambda](https://cloudacademy.com/blog/how-to-write-graphql-apps-using-aws-lambda/)
+
+
+---
+
+<img align="left" alt="Dhruv Kumar Jha Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dhruv-kumar-jha&count_private=true&show_icons=true&hide_border=true" />
+
+
+
+
+
+[website]: http://dhruvkumarjha.com/
+[twitter]: https://twitter.com/dhruv_kumar_jha
+[linkedin]: https://www.linkedin.com/in/dhruvkumarjha
+[stackoverflow]: https://stackoverflow.com/users/414002
+
