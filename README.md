@@ -10,6 +10,7 @@
 - 💬 Ask me about **React, Node, GraphQL, React Native, Serverless**
 - ⚡ Fun fact: **I love Anime**
 
+---
 
 ### Connect with me:
 
@@ -39,10 +40,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
 
-<img align="top" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
+<img align="top" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" />
 
